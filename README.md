@@ -1,6 +1,6 @@
 # The Black Journal! Installation Guide
 
-# Hello, my name is Eromosere Etieyibo, and this is a step by step process in how to install, and run my project on your device. Please be sure to properly download and install the needed software to run this project on your device, and follow the steps closely. I look forward to showing you my web application, The Black Journal!. Thanks.
+Hello, my name is Eromosere Etieyibo, and this is a step by step process in how to install, and run my project on your device. Please be sure to properly download and install the needed software to run this project on your device, and follow the steps closely. I look forward to showing you my web application, The Black Journal!. Thanks.
 
 ## Prerequisites
 
