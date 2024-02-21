@@ -5,7 +5,7 @@
             <div class="relative z-10 text-center text-white">
                 <p class="text-xl font-medium md:text-4xl">Welcome To</p>
                 <h1 class="mb-3 text-2xl font-bold md:text-4xl">The Black Journal</h1>
-                <p class="text-sm md:text-lg"><b>Food</b> Travel Tips and more.</p>
+                <p class="text-sm md:text-lg"><b>Food, Travel Tips and more.</b> </p>
             </div>
         </section>
 
@@ -58,7 +58,7 @@
                 <div class="p-10 rounded-lg shadow-sm bg-gray-100/55">
                     <div class="mb-5">
                         <h1 class="text-black text-3xl font-semibold font-['Inter']">Subscribe to Our Newsletter</h1>
-                        <p class="md:w-[491px] text-neutral-600 text-xs font-normal font-['Poppins'] leading-[20px]">Hello there, lovers of cuisine! Today, Subscribe to our newsletter to get updates on traveltrips and food.</p>
+                        <p class="md:w-[491px] text-neutral-600 text-xs font-normal font-['Poppins'] leading-[20px]">Hello there, our dear readers! Subscribe to our newsletter today, and be the first to know about new and exciting tips from your favorite blog, The Black Journal!</p>
                     </div>
                     <div>
                         <form action="{{ route('subscribe') }}" method="post">

@@ -30,6 +30,13 @@ composer install
 
 This command installs the required PHP packages, needed to run the Laravel project.
 
+Open a new terminal window, and run the following command to install the Node.js packages needed to run this project:
+
+```
+npm install
+```
+This command will install the Node.js packages, some of which are dependencies needed to run the project.
+
 ## Step 4: Create a copy of the Environment File
 
 ```
@@ -57,7 +64,7 @@ DB_USERNAME=root
 DB_PASSWORD=
 ```
 
-##Step 7: Run Migrations
+## Step 7: Run Migrations
 
 ```
 php artisan migrate
@@ -65,8 +72,16 @@ php artisan migrate
 
 This command creates the necessary database tables.
 
-##Step 8: Serve the Application
-
+## Step 8: Serve the Application
+ Open a new terminal window and run the following command to start the web application on your device:
+ 
 ```
 php artisan serve
 ```
+In a seperate terminal window, run this Node.js command as well:
+
+```
+npm run dev
+```
+
+After both commands have been implemented on the two seperate terminal windown, head back to the terminal on which you ran the command "php artisan serve" and find the link to my web application, The Black Journal!. Click the link by using the combination of "alt + click" and head directly to the blog site.
