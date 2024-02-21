@@ -4,7 +4,7 @@
         <img src="/headerimg.png" class="object-cover w-full h-80" alt="">
         <div class="absolute z-50 px-6 mx-auto inset-20 max-w-7xl lg:px-6">
             <div className="max-w-2xl mx-auto lg:mx-0">
-                <h1 class="text-6xl font-bold text-white lg:max-w-lg sm:max-w-3xl sm:text-6xl">About The Black Journal</h1>
+                <h1 class="text-6xl font-bold text-white lg:max-w-lg sm:max-w-3xl sm:text-6xl">About The Black Journal!</h1>
             </div>
         </div>
         <div class="absolute inset-0 top-0 bg-black opacity-40"></div>
