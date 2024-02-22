@@ -20,17 +20,16 @@
                 a plethora of topics ranging from exquisite cuisine to travel and
                 urban lifestyle.
             </p>
-
-            <p class="mb-4 text-base leading-7 tracking-wide">For us, it was all about creating and providing curious minds
-                with
-                an engaging and captivating space for sharing experiences,
+            <p class="mb-4 text-base leading-7 tracking-wide">
+                For us, it was all about creating and providing curious minds
+                with an engaging and captivating space for sharing experiences,
                 expertise, and tips on lifestyle topics fostering meaningful
                 conversations, as well as a fine learning experience. The
                 inspiration behind the blog remains to provide users from diverse
                 backgrounds with spicy and up to date content on a broad range
                 of topics related to urban lifestyle, as well as contribute valuable
-                insights to the global audience.</p>
-
+                insights to the global audience.
+            </p>
             <p class="mb-4 text-base leading-7 tracking-wide">
                 From seasoned lifestyle experts and food critics to enthusiastic
                 knowledge seekers and young curious minds, The Black

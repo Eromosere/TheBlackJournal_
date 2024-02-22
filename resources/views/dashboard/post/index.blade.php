@@ -19,7 +19,7 @@
                         <h1 class="text-lg font-semibold">Post</h1>
                         {{-- <div>
                             <a href="{{ route('category.create') }}"
-                                class="px-4 py-2 text-sm font-medium text-black bg-white rounded-md">Create Category</a>
+                                class="px-4 py-2 text-sm font-medium text-black bg-white rounded-md">Create Post</a>
                         </div> --}}
                     </div>
 
