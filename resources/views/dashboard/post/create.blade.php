@@ -9,7 +9,7 @@
             <div class="p-4 bg-white shadow sm:p-8 dark:bg-gray-800 sm:rounded-lg">
                 <div class="max-w-xl">
                     <h2 class="text-lg font-medium text-gray-900 dark:text-gray-100">
-                        {{$action == 'edit' ? __('Update Category') : __('Create Category') }}
+                        {{$action == 'edit' ? __('Update Post') : __('Create Post') }}
                     </h2>
 
                     <form method="post" action="{{$action == 'edit' ? route('post.update',$post->id) : route('post.store') }}" class="mt-6 space-y-6" enctype="multipart/form-data">
