@@ -35,6 +35,7 @@ Open a new terminal window, and run the following command to install the Node.js
 ```
 npm install
 ```
+
 This command will install the Node.js packages, some of which are dependencies needed to run the project.
 
 ## Step 4: Create a copy of the Environment File
@@ -73,11 +74,13 @@ php artisan migrate
 This command creates the necessary database tables.
 
 ## Step 8: Serve the Application
- Open a new terminal window and run the following command to start the web application on your device:
- 
+
+Open a new terminal window and run the following command to start the web application on your device:
+
 ```
 php artisan serve
 ```
+
 In a seperate terminal window, run this Node.js command as well:
 
 ```
