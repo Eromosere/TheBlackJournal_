@@ -30,13 +30,13 @@ composer install
 
 This command installs the required PHP packages, needed to run the Laravel project.
 
-Open a new terminal window, and run the following command to install the Node.js packages needed to run this project:
+Open a new terminal window, and run the following command to install the Node modules and libraries needed to run this project:
 
 ```
 npm install
 ```
 
-This command will install the Node.js packages, some of which are dependencies needed to run the project.
+This command will install the Node modules and libraries, some of which are dependencies needed to run the project.
 
 ## Step 4: Create a copy of the Environment File
 
@@ -81,7 +81,7 @@ Open a new terminal window and run the following command to start the web applic
 php artisan serve
 ```
 
-In a seperate terminal window, run this Node.js command as well:
+In a seperate terminal window, run this dev Node.js command as well:
 
 ```
 npm run dev
