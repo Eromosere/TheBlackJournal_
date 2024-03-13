@@ -93,9 +93,17 @@ After both commands have been implemented on the two seperate terminal windown, 
 
 To access the dashboard, blog posts and categories from the back-end of my blog application, follow this steps:
 
-STEP 1: In the URL or address bar, where you have the server link to my project, The Black Journal!, simply type in the following:
+## STEP 1:
+
+In the URL or address bar, where you have the server link to my project, The Black Journal!, simply type in the following:
 http://127.0.0.1:8000/login
-STEP 2: You should see a login page requesting login credentials to access the back-end dashboard of the blog platform. The credentials are as follows:
+
+## STEP 2:
+
+You should see a login page requesting login credentials to access the back-end dashboard of the blog platform. The credentials are as follows:
 Email: eromosere360@gmail.com
 Password: e4eA7!VdUZYwLF-
-STEP 3: Successful login! You should be able to access the dashboard, posts and catergory sections of the back-end view now.
+
+## STEP 3:
+
+Successful login! You should be able to access the dashboard, posts and catergory sections of the back-end view now.
