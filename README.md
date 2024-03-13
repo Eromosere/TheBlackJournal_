@@ -101,8 +101,9 @@ http://127.0.0.1:8000/login
 ## STEP 2:
 
 You should see a login page requesting login credentials to access the back-end dashboard of the blog platform. The credentials are as follows:
-Email: eromosere360@gmail.com
-Password: e4eA7!VdUZYwLF-
+
+-   Email: eromosere360@gmail.com
+-   Password: e4eA7!VdUZYwLF-
 
 ## STEP 3:
 
