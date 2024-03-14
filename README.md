@@ -30,13 +30,13 @@ composer install
 
 This command installs the required PHP packages, needed to run the Laravel project.
 
-Open a new terminal window, and run the following command to install the Node modules and libraries needed to run this project:
+Open a new terminal window, and run the following command to install the Node modules and libraries needed to run the tailwind CSS styling in this project:
 
 ```
 npm install
 ```
 
-This command will install the Node modules and libraries, some of which are dependencies needed to run the project.
+This command will install the Node modules and libraries, which are dependencies needed to run the project.
 
 ## Step 4: Create a copy of the Environment File
 
