@@ -87,7 +87,7 @@ In a seperate terminal window, run this dev Node.js command as well:
 npm run dev
 ```
 
-After both commands have been implemented on the two seperate terminal windown, head back to the terminal on which you ran the command "php artisan serve" and find the link to the server on which my web application, The Black Journal!, is running. Click the link by using the combination of "alt + click" and head directly to my blog website.
+After both commands have been implemented on the two seperate terminal windown, head back to the terminal on which you ran the command "php artisan serve" and find the link to the server on which my web application, The Black Journal!, is running. Click the link by using the combination of "alt + click" and this should take you directly to my blog website.
 
 ## To access the back-end of my blog web application, The Black Journal!
 
